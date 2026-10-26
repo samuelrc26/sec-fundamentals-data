@@ -1,0 +1,18 @@
+{
+  "date": "2026-09-30",
+  "pe": 22.69,
+  "forward": 17.92,
+  "pb": 4.1,
+  "dy": 0.0152,
+  "weights": [
+    0.0581,
+    0.04,
+    0.0176,
+    0.0541,
+    0.026699999999999998,
+    0.039900000000000005
+  ],
+  "schemaVersion": 1,
+  "source": "https://www.msci.com/documents/10199/255599/msci-world-index-usd-net.pdf",
+  "fetchedAt": "2026-10-26T19:29:27.669745+00:00"
+}
