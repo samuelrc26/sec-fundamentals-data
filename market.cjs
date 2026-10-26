@@ -1,2 +1,4 @@
-const fs=require('fs');const {parseMSCI}=require('./market-parser.cjs');
-(async()=>{const source='https://www.msci.com/indexes/index/990100/msci-world-index';const r=await fetch(source,{signal:AbortSignal.timeout(30000)});if(!r.ok)throw Error('MSCI HTTP '+r.status);const d=parseMSCI(await r.text());const age=Date.now()-Date.parse(d.date+'T00:00:00Z');if(age<0||age>45*86400000)throw Error('Fecha MSCI antigua o futura');const p={schemaVersion:1,source,fetchedAt:new Date().toISOString(),...d};fs.mkdirSync('data',{recursive:true});fs.writeFileSync('data/msci.json',JSON.stringify(p,null,2));console.log('MSCI validado: '+d.date);})().catch(e=>{console.error(e.message);process.exit(1);});
+const {execFileSync}=require('node:child_process');
+// Official monthly PDF avoids dependence on the interactive website rendering.
+execFileSync('python',['-m','pip','install','--disable-pip-version-check','pypdf==6.10.0'],{stdio:'inherit'});
+execFileSync('python',['market-pdf.py'],{stdio:'inherit'});
