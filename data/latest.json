@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": "2026-10-28T10:37:34.352Z",
+  "fetchedAt": "2026-10-29T10:55:20.530Z",
   "companies": [
     {
       "ticker": "NVDA",
@@ -504,18 +504,18 @@
     {
       "ticker": "MSFT",
       "cik": "0000789019",
-      "end": "2026-06-30",
-      "filed": "2026-07-29",
+      "end": "2026-09-30",
+      "filed": "2026-10-28",
       "values": {
-        "revenue": 331839000000,
-        "cfo": 182935000000,
-        "capex": 115948000000,
-        "sbc": 12405000000,
-        "net": 133749000000,
-        "op": 155237000000,
-        "assets": 758376000000,
-        "liabilities": 315989000000,
-        "shares": 7453000000
+        "revenue": 346445000000,
+        "cfo": 195878000000,
+        "capex": 135921000000,
+        "sbc": 12556000000,
+        "net": 142631000000,
+        "op": 163191000000,
+        "assets": 779403000000,
+        "liabilities": 308894000000,
+        "shares": 7446000000
       },
       "hist": [
         [
@@ -566,6 +566,30 @@
         ],
         [
           "MSFT",
+          "revenue",
+          1,
+          92279000000,
+          "2026-07-01",
+          "2026-09-30",
+          "2026-10-28",
+          "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "0001193125-26-436133",
+          "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
+        ],
+        [
+          "MSFT",
+          "revenue",
+          -1,
+          77673000000,
+          "2025-07-01",
+          "2025-09-30",
+          "2026-10-28",
+          "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "0001193125-26-436133",
+          "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
+        ],
+        [
+          "MSFT",
           "cfo",
           1,
           182935000000,
@@ -575,6 +599,30 @@
           "NetCashProvidedByUsedInOperatingActivities",
           "0001193125-26-323660",
           "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
+        ],
+        [
+          "MSFT",
+          "cfo",
+          1,
+          58000000000,
+          "2026-07-01",
+          "2026-09-30",
+          "2026-10-28",
+          "NetCashProvidedByUsedInOperatingActivities",
+          "0001193125-26-436133",
+          "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
+        ],
+        [
+          "MSFT",
+          "cfo",
+          -1,
+          45057000000,
+          "2025-07-01",
+          "2025-09-30",
+          "2026-10-28",
+          "NetCashProvidedByUsedInOperatingActivities",
+          "0001193125-26-436133",
+          "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
         ],
         [
           "MSFT",
@@ -590,6 +638,30 @@
         ],
         [
           "MSFT",
+          "capex",
+          1,
+          39367000000,
+          "2026-07-01",
+          "2026-09-30",
+          "2026-10-28",
+          "PaymentsToAcquirePropertyPlantAndEquipment",
+          "0001193125-26-436133",
+          "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
+        ],
+        [
+          "MSFT",
+          "capex",
+          -1,
+          19394000000,
+          "2025-07-01",
+          "2025-09-30",
+          "2026-10-28",
+          "PaymentsToAcquirePropertyPlantAndEquipment",
+          "0001193125-26-436133",
+          "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
+        ],
+        [
+          "MSFT",
           "sbc",
           1,
           12405000000,
@@ -599,6 +671,30 @@
           "ShareBasedCompensation",
           "0001193125-26-323660",
           "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
+        ],
+        [
+          "MSFT",
+          "sbc",
+          1,
+          3134000000,
+          "2026-07-01",
+          "2026-09-30",
+          "2026-10-28",
+          "ShareBasedCompensation",
+          "0001193125-26-436133",
+          "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
+        ],
+        [
+          "MSFT",
+          "sbc",
+          -1,
+          2983000000,
+          "2025-07-01",
+          "2025-09-30",
+          "2026-10-28",
+          "ShareBasedCompensation",
+          "0001193125-26-436133",
+          "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
         ],
         [
           "MSFT",
@@ -614,6 +710,30 @@
         ],
         [
           "MSFT",
+          "net",
+          1,
+          36629000000,
+          "2026-07-01",
+          "2026-09-30",
+          "2026-10-28",
+          "NetIncomeLoss",
+          "0001193125-26-436133",
+          "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
+        ],
+        [
+          "MSFT",
+          "net",
+          -1,
+          27747000000,
+          "2025-07-01",
+          "2025-09-30",
+          "2026-10-28",
+          "NetIncomeLoss",
+          "0001193125-26-436133",
+          "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
+        ],
+        [
+          "MSFT",
           "op",
           1,
           155237000000,
@@ -626,39 +746,63 @@
         ],
         [
           "MSFT",
+          "op",
+          1,
+          45915000000,
+          "2026-07-01",
+          "2026-09-30",
+          "2026-10-28",
+          "OperatingIncomeLoss",
+          "0001193125-26-436133",
+          "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
+        ],
+        [
+          "MSFT",
+          "op",
+          -1,
+          37961000000,
+          "2025-07-01",
+          "2025-09-30",
+          "2026-10-28",
+          "OperatingIncomeLoss",
+          "0001193125-26-436133",
+          "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
+        ],
+        [
+          "MSFT",
           "assets",
           1,
-          758376000000,
+          779403000000,
           "",
-          "2026-06-30",
-          "2026-07-29",
+          "2026-09-30",
+          "2026-10-28",
           "Assets",
-          "0001193125-26-323660",
-          "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
+          "0001193125-26-436133",
+          "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
         ],
         [
           "MSFT",
           "liabilities",
           1,
-          315989000000,
+          308894000000,
           "",
-          "2026-06-30",
-          "2026-07-29",
+          "2026-09-30",
+          "2026-10-28",
           "Liabilities",
-          "0001193125-26-323660",
-          "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
+          "0001193125-26-436133",
+          "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
         ],
         [
           "MSFT",
           "shares",
           1,
-          7453000000,
-          "2025-07-01",
-          "2026-06-30",
-          "2026-07-29",
+          7446000000,
+          "2026-07-01",
+          "2026-09-30",
+          "2026-10-28",
           "WeightedAverageNumberOfDilutedSharesOutstanding",
-          "0001193125-26-323660",
-          "https://www.sec.gov/Archives/edgar/data/789019/000119312526323660/"
+          "0001193125-26-436133",
+          "https://www.sec.gov/Archives/edgar/data/789019/000119312526436133/"
         ],
         [
           "MSFT",
@@ -854,7 +998,7 @@
         ]
       ],
       "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000789019.json",
-      "sha256": "dd0308149a8e96497989ed7c690b5a49a00bef9ceafbb24638bda41e8ae938dd"
+      "sha256": "464cc12cc4796c90a6a0c709eb4920788aa7d4d5eee8b44f2d11d7d44804ae37"
     },
     {
       "ticker": "META",
@@ -1353,7 +1497,7 @@
         ]
       ],
       "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
-      "sha256": "52f806ebd7961834d5ac8073e516361e60e800a52ada0ed7f46fb5f615b6050d"
+      "sha256": "b0d0d92870b68488cec086cffd83514f2cc6c80d3e8c4f91e192b17ce3e7c946"
     },
     {
       "ticker": "AAPL",
@@ -2356,18 +2500,18 @@
     {
       "ticker": "GOOGL",
       "cik": "0001652044",
-      "end": "2026-06-30",
-      "filed": "2026-07-23",
+      "end": "2026-09-30",
+      "filed": "2026-10-29",
       "values": {
-        "revenue": 445866000000,
-        "cfo": 185675000000,
-        "capex": 132402000000,
-        "sbc": 28147000000,
-        "net": 244205000000,
-        "op": 147628000000,
-        "assets": 921983000000,
-        "liabilities": 281503000000,
-        "shares": 12309000000
+        "revenue": 471098000000,
+        "cfo": 179551000000,
+        "capex": 159804000000,
+        "sbc": 30409000000,
+        "net": 235694000000,
+        "op": 156976000000,
+        "assets": 1003312000000,
+        "liabilities": 325763000000,
+        "shares": 12368000000
       },
       "hist": [
         [
@@ -2420,25 +2564,25 @@
           "GOOGL",
           "revenue",
           1,
-          229692000000,
+          357269000000,
           "2026-01-01",
-          "2026-06-30",
-          "2026-07-23",
+          "2026-09-30",
+          "2026-10-29",
           "Revenues",
-          "0001652044-26-000071",
-          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+          "0001652044-26-000084",
+          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
         ],
         [
           "GOOGL",
           "revenue",
           -1,
-          186662000000,
+          289007000000,
           "2025-01-01",
-          "2025-06-30",
-          "2026-07-23",
+          "2025-09-30",
+          "2026-10-29",
           "Revenues",
-          "0001652044-26-000071",
-          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+          "0001652044-26-000084",
+          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
         ],
         [
           "GOOGL",
@@ -2456,25 +2600,25 @@
           "GOOGL",
           "cfo",
           1,
-          84859000000,
+          127149000000,
           "2026-01-01",
-          "2026-06-30",
-          "2026-07-23",
+          "2026-09-30",
+          "2026-10-29",
           "NetCashProvidedByUsedInOperatingActivities",
-          "0001652044-26-000071",
-          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+          "0001652044-26-000084",
+          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
         ],
         [
           "GOOGL",
           "cfo",
           -1,
-          63897000000,
+          112311000000,
           "2025-01-01",
-          "2025-06-30",
-          "2026-07-23",
+          "2025-09-30",
+          "2026-10-29",
           "NetCashProvidedByUsedInOperatingActivities",
-          "0001652044-26-000071",
-          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+          "0001652044-26-000084",
+          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
         ],
         [
           "GOOGL",
@@ -2492,25 +2636,25 @@
           "GOOGL",
           "capex",
           1,
-          80598000000,
+          131953000000,
           "2026-01-01",
-          "2026-06-30",
-          "2026-07-23",
+          "2026-09-30",
+          "2026-10-29",
           "PaymentsToAcquirePropertyPlantAndEquipment",
-          "0001652044-26-000071",
-          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+          "0001652044-26-000084",
+          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
         ],
         [
           "GOOGL",
           "capex",
           -1,
-          39643000000,
+          63596000000,
           "2025-01-01",
-          "2025-06-30",
-          "2026-07-23",
+          "2025-09-30",
+          "2026-10-29",
           "PaymentsToAcquirePropertyPlantAndEquipment",
-          "0001652044-26-000071",
-          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+          "0001652044-26-000084",
+          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
         ],
         [
           "GOOGL",
@@ -2528,25 +2672,25 @@
           "GOOGL",
           "sbc",
           1,
-          14708000000,
+          23338000000,
           "2026-01-01",
-          "2026-06-30",
-          "2026-07-23",
+          "2026-09-30",
+          "2026-10-29",
           "ShareBasedCompensation",
-          "0001652044-26-000071",
-          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+          "0001652044-26-000084",
+          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
         ],
         [
           "GOOGL",
           "sbc",
           -1,
-          11514000000,
+          17882000000,
           "2025-01-01",
-          "2025-06-30",
-          "2026-07-23",
+          "2025-09-30",
+          "2026-10-29",
           "ShareBasedCompensation",
-          "0001652044-26-000071",
-          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+          "0001652044-26-000084",
+          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
         ],
         [
           "GOOGL",
@@ -2564,25 +2708,25 @@
           "GOOGL",
           "net",
           1,
-          174771000000,
+          201239000000,
           "2026-01-01",
-          "2026-06-30",
-          "2026-07-23",
+          "2026-09-30",
+          "2026-10-29",
           "NetIncomeLoss",
-          "0001652044-26-000071",
-          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+          "0001652044-26-000084",
+          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
         ],
         [
           "GOOGL",
           "net",
           -1,
-          62736000000,
+          97715000000,
           "2025-01-01",
-          "2025-06-30",
-          "2026-07-23",
+          "2025-09-30",
+          "2026-10-29",
           "NetIncomeLoss",
-          "0001652044-26-000071",
-          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+          "0001652044-26-000084",
+          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
         ],
         [
           "GOOGL",
@@ -2600,61 +2744,61 @@
           "GOOGL",
           "op",
           1,
-          80466000000,
+          121042000000,
           "2026-01-01",
-          "2026-06-30",
-          "2026-07-23",
+          "2026-09-30",
+          "2026-10-29",
           "OperatingIncomeLoss",
-          "0001652044-26-000071",
-          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+          "0001652044-26-000084",
+          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
         ],
         [
           "GOOGL",
           "op",
           -1,
-          61877000000,
+          93105000000,
           "2025-01-01",
-          "2025-06-30",
-          "2026-07-23",
+          "2025-09-30",
+          "2026-10-29",
           "OperatingIncomeLoss",
-          "0001652044-26-000071",
-          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+          "0001652044-26-000084",
+          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
         ],
         [
           "GOOGL",
           "assets",
           1,
-          921983000000,
+          1003312000000,
           "",
-          "2026-06-30",
-          "2026-07-23",
+          "2026-09-30",
+          "2026-10-29",
           "Assets",
-          "0001652044-26-000071",
-          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+          "0001652044-26-000084",
+          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
         ],
         [
           "GOOGL",
           "liabilities",
           1,
-          281503000000,
+          325763000000,
           "",
-          "2026-06-30",
-          "2026-07-23",
+          "2026-09-30",
+          "2026-10-29",
           "Liabilities",
-          "0001652044-26-000071",
-          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+          "0001652044-26-000084",
+          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
         ],
         [
           "GOOGL",
           "shares",
           1,
-          12309000000,
-          "2026-04-01",
-          "2026-06-30",
-          "2026-07-23",
+          12368000000,
+          "2026-07-01",
+          "2026-09-30",
+          "2026-10-29",
           "WeightedAverageNumberOfDilutedSharesOutstanding",
-          "0001652044-26-000071",
-          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000071/"
+          "0001652044-26-000084",
+          "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000084/"
         ],
         [
           "GOOGL",
@@ -2850,7 +2994,7 @@
         ]
       ],
       "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
-      "sha256": "a017f26ee88cb4a639d1c1ddb06d53b4afe22f0ac89cabec7cd67c88919fe1c5"
+      "sha256": "ec4a3095d634583925b5ea450db8a5ed974dc48f6f1b4f594022310bc78d4032"
     }
   ]
 }
