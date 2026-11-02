@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": "2026-11-01T11:18:30.511Z",
+  "fetchedAt": "2026-11-02T12:30:21.652Z",
   "companies": [
     {
       "ticker": "NVDA",
@@ -998,7 +998,7 @@
         ]
       ],
       "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000789019.json",
-      "sha256": "464cc12cc4796c90a6a0c709eb4920788aa7d4d5eee8b44f2d11d7d44804ae37"
+      "sha256": "8c1903c041f5c27e86ed15f37debb1f41882b7904bba129ef9edc76478b1e8ea"
     },
     {
       "ticker": "META",
