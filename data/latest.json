@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": "2026-11-03T11:58:37.788Z",
+  "fetchedAt": "2026-11-04T12:12:59.925Z",
   "companies": [
     {
       "ticker": "NVDA",
@@ -1502,28 +1502,20 @@
     {
       "ticker": "AAPL",
       "cik": "0000320193",
-      "end": "2026-06-27",
-      "filed": "2026-07-31",
+      "end": "2026-09-26",
+      "filed": "2026-11-03",
       "values": {
-        "revenue": 466823000000,
-        "cfo": 146724000000,
-        "capex": 10041000000,
-        "sbc": 13706000000,
-        "net": 128930000000,
-        "op": 154859000000,
-        "assets": 383266000000,
-        "liabilities": 275746000000,
-        "shares": 14714676000
+        "revenue": 478834000000,
+        "cfo": 145097000000,
+        "capex": 9041000000,
+        "sbc": 13789000000,
+        "net": 132175000000,
+        "op": 158063000000,
+        "assets": 404548000000,
+        "liabilities": 292455000000,
+        "shares": 14720306000
       },
       "hist": [
-        [
-          "AAPL",
-          "2022-09-24",
-          394328000000,
-          122151000000,
-          10708000000,
-          9038000000
-        ],
         [
           "AAPL",
           "2023-09-30",
@@ -1547,6 +1539,14 @@
           111482000000,
           12715000000,
           12863000000
+        ],
+        [
+          "AAPL",
+          "2026-09-26",
+          478834000000,
+          145097000000,
+          9041000000,
+          13789000000
         ]
       ],
       "audit": [
@@ -1554,301 +1554,109 @@
           "AAPL",
           "revenue",
           1,
-          416161000000,
-          "2024-09-29",
-          "2025-09-27",
-          "2025-10-31",
-          "RevenueFromContractWithCustomerExcludingAssessedTax",
-          "0000320193-25-000079",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/"
-        ],
-        [
-          "AAPL",
-          "revenue",
-          1,
-          364357000000,
+          478834000000,
           "2025-09-28",
-          "2026-06-27",
-          "2026-07-31",
+          "2026-09-26",
+          "2026-11-03",
           "RevenueFromContractWithCustomerExcludingAssessedTax",
-          "0000320193-26-000020",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/"
-        ],
-        [
-          "AAPL",
-          "revenue",
-          -1,
-          313695000000,
-          "2024-09-29",
-          "2025-06-28",
-          "2026-07-31",
-          "RevenueFromContractWithCustomerExcludingAssessedTax",
-          "0000320193-26-000020",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/"
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
         ],
         [
           "AAPL",
           "cfo",
           1,
-          111482000000,
-          "2024-09-29",
-          "2025-09-27",
-          "2025-10-31",
-          "NetCashProvidedByUsedInOperatingActivities",
-          "0000320193-25-000079",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/"
-        ],
-        [
-          "AAPL",
-          "cfo",
-          1,
-          116996000000,
+          145097000000,
           "2025-09-28",
-          "2026-06-27",
-          "2026-07-31",
+          "2026-09-26",
+          "2026-11-03",
           "NetCashProvidedByUsedInOperatingActivities",
-          "0000320193-26-000020",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/"
-        ],
-        [
-          "AAPL",
-          "cfo",
-          -1,
-          81754000000,
-          "2024-09-29",
-          "2025-06-28",
-          "2026-07-31",
-          "NetCashProvidedByUsedInOperatingActivities",
-          "0000320193-26-000020",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/"
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
         ],
         [
           "AAPL",
           "capex",
           1,
-          12715000000,
-          "2024-09-29",
-          "2025-09-27",
-          "2025-10-31",
-          "PaymentsToAcquirePropertyPlantAndEquipment",
-          "0000320193-25-000079",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/"
-        ],
-        [
-          "AAPL",
-          "capex",
-          1,
-          6799000000,
+          9041000000,
           "2025-09-28",
-          "2026-06-27",
-          "2026-07-31",
+          "2026-09-26",
+          "2026-11-03",
           "PaymentsToAcquirePropertyPlantAndEquipment",
-          "0000320193-26-000020",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/"
-        ],
-        [
-          "AAPL",
-          "capex",
-          -1,
-          9473000000,
-          "2024-09-29",
-          "2025-06-28",
-          "2026-07-31",
-          "PaymentsToAcquirePropertyPlantAndEquipment",
-          "0000320193-26-000020",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/"
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
         ],
         [
           "AAPL",
           "sbc",
           1,
-          12863000000,
-          "2024-09-29",
-          "2025-09-27",
-          "2025-10-31",
-          "ShareBasedCompensation",
-          "0000320193-25-000079",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/"
-        ],
-        [
-          "AAPL",
-          "sbc",
-          1,
-          10523000000,
+          13789000000,
           "2025-09-28",
-          "2026-06-27",
-          "2026-07-31",
+          "2026-09-26",
+          "2026-11-03",
           "ShareBasedCompensation",
-          "0000320193-26-000020",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/"
-        ],
-        [
-          "AAPL",
-          "sbc",
-          -1,
-          9680000000,
-          "2024-09-29",
-          "2025-06-28",
-          "2026-07-31",
-          "ShareBasedCompensation",
-          "0000320193-26-000020",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/"
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
         ],
         [
           "AAPL",
           "net",
           1,
-          112010000000,
-          "2024-09-29",
-          "2025-09-27",
-          "2025-10-31",
-          "NetIncomeLoss",
-          "0000320193-25-000079",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/"
-        ],
-        [
-          "AAPL",
-          "net",
-          1,
-          101464000000,
+          132175000000,
           "2025-09-28",
-          "2026-06-27",
-          "2026-07-31",
+          "2026-09-26",
+          "2026-11-03",
           "NetIncomeLoss",
-          "0000320193-26-000020",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/"
-        ],
-        [
-          "AAPL",
-          "net",
-          -1,
-          84544000000,
-          "2024-09-29",
-          "2025-06-28",
-          "2026-07-31",
-          "NetIncomeLoss",
-          "0000320193-26-000020",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/"
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
         ],
         [
           "AAPL",
           "op",
           1,
-          133050000000,
-          "2024-09-29",
-          "2025-09-27",
-          "2025-10-31",
-          "OperatingIncomeLoss",
-          "0000320193-25-000079",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/"
-        ],
-        [
-          "AAPL",
-          "op",
-          1,
-          122432000000,
+          158063000000,
           "2025-09-28",
-          "2026-06-27",
-          "2026-07-31",
+          "2026-09-26",
+          "2026-11-03",
           "OperatingIncomeLoss",
-          "0000320193-26-000020",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/"
-        ],
-        [
-          "AAPL",
-          "op",
-          -1,
-          100623000000,
-          "2024-09-29",
-          "2025-06-28",
-          "2026-07-31",
-          "OperatingIncomeLoss",
-          "0000320193-26-000020",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/"
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
         ],
         [
           "AAPL",
           "assets",
           1,
-          383266000000,
+          404548000000,
           "",
-          "2026-06-27",
-          "2026-07-31",
+          "2026-09-26",
+          "2026-11-03",
           "Assets",
-          "0000320193-26-000020",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/"
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
         ],
         [
           "AAPL",
           "liabilities",
           1,
-          275746000000,
+          292455000000,
           "",
-          "2026-06-27",
-          "2026-07-31",
+          "2026-09-26",
+          "2026-11-03",
           "Liabilities",
-          "0000320193-26-000020",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/"
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
         ],
         [
           "AAPL",
           "shares",
           1,
-          14714676000,
-          "2026-03-29",
-          "2026-06-27",
-          "2026-07-31",
+          14720306000,
+          "2025-09-28",
+          "2026-09-26",
+          "2026-11-03",
           "WeightedAverageNumberOfDilutedSharesOutstanding",
-          "0000320193-26-000020",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000020/"
-        ],
-        [
-          "AAPL",
-          "revenue",
-          1,
-          394328000000,
-          "2021-09-26",
-          "2022-09-24",
-          "2024-11-01",
-          "RevenueFromContractWithCustomerExcludingAssessedTax",
-          "0000320193-24-000123",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/"
-        ],
-        [
-          "AAPL",
-          "cfo",
-          1,
-          122151000000,
-          "2021-09-26",
-          "2022-09-24",
-          "2024-11-01",
-          "NetCashProvidedByUsedInOperatingActivities",
-          "0000320193-24-000123",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/"
-        ],
-        [
-          "AAPL",
-          "capex",
-          1,
-          10708000000,
-          "2021-09-26",
-          "2022-09-24",
-          "2024-11-01",
-          "PaymentsToAcquirePropertyPlantAndEquipment",
-          "0000320193-24-000123",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/"
-        ],
-        [
-          "AAPL",
-          "sbc",
-          1,
-          9038000000,
-          "2021-09-26",
-          "2022-09-24",
-          "2024-11-01",
-          "ShareBasedCompensation",
-          "0000320193-24-000123",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019324000123/"
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
         ],
         [
           "AAPL",
@@ -1905,10 +1713,10 @@
           391035000000,
           "2023-10-01",
           "2024-09-28",
-          "2025-10-31",
+          "2026-11-03",
           "RevenueFromContractWithCustomerExcludingAssessedTax",
-          "0000320193-25-000079",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/"
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
         ],
         [
           "AAPL",
@@ -1917,10 +1725,10 @@
           118254000000,
           "2023-10-01",
           "2024-09-28",
-          "2025-10-31",
+          "2026-11-03",
           "NetCashProvidedByUsedInOperatingActivities",
-          "0000320193-25-000079",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/"
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
         ],
         [
           "AAPL",
@@ -1929,10 +1737,10 @@
           9447000000,
           "2023-10-01",
           "2024-09-28",
-          "2025-10-31",
+          "2026-11-03",
           "PaymentsToAcquirePropertyPlantAndEquipment",
-          "0000320193-25-000079",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/"
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
         ],
         [
           "AAPL",
@@ -1941,10 +1749,10 @@
           11688000000,
           "2023-10-01",
           "2024-09-28",
-          "2025-10-31",
+          "2026-11-03",
           "ShareBasedCompensation",
-          "0000320193-25-000079",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/"
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
         ],
         [
           "AAPL",
@@ -1953,10 +1761,10 @@
           416161000000,
           "2024-09-29",
           "2025-09-27",
-          "2025-10-31",
+          "2026-11-03",
           "RevenueFromContractWithCustomerExcludingAssessedTax",
-          "0000320193-25-000079",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/"
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
         ],
         [
           "AAPL",
@@ -1965,10 +1773,10 @@
           111482000000,
           "2024-09-29",
           "2025-09-27",
-          "2025-10-31",
+          "2026-11-03",
           "NetCashProvidedByUsedInOperatingActivities",
-          "0000320193-25-000079",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/"
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
         ],
         [
           "AAPL",
@@ -1977,10 +1785,10 @@
           12715000000,
           "2024-09-29",
           "2025-09-27",
-          "2025-10-31",
+          "2026-11-03",
           "PaymentsToAcquirePropertyPlantAndEquipment",
-          "0000320193-25-000079",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/"
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
         ],
         [
           "AAPL",
@@ -1989,14 +1797,62 @@
           12863000000,
           "2024-09-29",
           "2025-09-27",
-          "2025-10-31",
+          "2026-11-03",
           "ShareBasedCompensation",
-          "0000320193-25-000079",
-          "https://www.sec.gov/Archives/edgar/data/320193/000032019325000079/"
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
+        ],
+        [
+          "AAPL",
+          "revenue",
+          1,
+          478834000000,
+          "2025-09-28",
+          "2026-09-26",
+          "2026-11-03",
+          "RevenueFromContractWithCustomerExcludingAssessedTax",
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
+        ],
+        [
+          "AAPL",
+          "cfo",
+          1,
+          145097000000,
+          "2025-09-28",
+          "2026-09-26",
+          "2026-11-03",
+          "NetCashProvidedByUsedInOperatingActivities",
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
+        ],
+        [
+          "AAPL",
+          "capex",
+          1,
+          9041000000,
+          "2025-09-28",
+          "2026-09-26",
+          "2026-11-03",
+          "PaymentsToAcquirePropertyPlantAndEquipment",
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
+        ],
+        [
+          "AAPL",
+          "sbc",
+          1,
+          13789000000,
+          "2025-09-28",
+          "2026-09-26",
+          "2026-11-03",
+          "ShareBasedCompensation",
+          "0000320193-26-000026",
+          "https://www.sec.gov/Archives/edgar/data/320193/000032019326000026/"
         ]
       ],
       "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0000320193.json",
-      "sha256": "73a86c6aedc31f77cac2ea4df5f80f0b3bd7e6eb58bb4e01444fbedf3afb9c43"
+      "sha256": "75a78f918313f3336823517d6c34908d23dd07f07e90e625c61e705e3bb6d27b"
     },
     {
       "ticker": "AMZN",
