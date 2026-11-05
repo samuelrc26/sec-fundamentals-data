@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "fetchedAt": "2026-11-04T12:12:59.925Z",
+  "fetchedAt": "2026-11-05T12:25:49.170Z",
   "companies": [
     {
       "ticker": "NVDA",
@@ -1497,7 +1497,7 @@
         ]
       ],
       "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001326801.json",
-      "sha256": "795995ed1013ebfc08ccb904ba40e16771e9ac28dbbbc40634346b6f6cbe074f"
+      "sha256": "83c9002a70c6ecbcbe2c4dbcd7020bdacf027f514f29d1560dee3527d2bf55c8"
     },
     {
       "ticker": "AAPL",
@@ -2850,7 +2850,7 @@
         ]
       ],
       "source": "https://data.sec.gov/api/xbrl/companyfacts/CIK0001652044.json",
-      "sha256": "ec4a3095d634583925b5ea450db8a5ed974dc48f6f1b4f594022310bc78d4032"
+      "sha256": "f87bc183f74b45ecf9a0933e0e0a1b6b97ead51a9d29367a7dae436574e1c1d0"
     }
   ]
 }
